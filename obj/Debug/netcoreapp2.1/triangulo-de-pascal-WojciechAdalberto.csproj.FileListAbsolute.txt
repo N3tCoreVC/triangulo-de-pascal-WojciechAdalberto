@@ -1,0 +1,11 @@
+C:\Users\WeAre\VSCore\ProjectosClase\triangulo-de-pascal-WojciechAdalberto\bin\Debug\netcoreapp2.1\triangulo-de-pascal-WojciechAdalberto.deps.json
+C:\Users\WeAre\VSCore\ProjectosClase\triangulo-de-pascal-WojciechAdalberto\bin\Debug\netcoreapp2.1\triangulo-de-pascal-WojciechAdalberto.runtimeconfig.json
+C:\Users\WeAre\VSCore\ProjectosClase\triangulo-de-pascal-WojciechAdalberto\bin\Debug\netcoreapp2.1\triangulo-de-pascal-WojciechAdalberto.runtimeconfig.dev.json
+C:\Users\WeAre\VSCore\ProjectosClase\triangulo-de-pascal-WojciechAdalberto\bin\Debug\netcoreapp2.1\triangulo-de-pascal-WojciechAdalberto.dll
+C:\Users\WeAre\VSCore\ProjectosClase\triangulo-de-pascal-WojciechAdalberto\bin\Debug\netcoreapp2.1\triangulo-de-pascal-WojciechAdalberto.pdb
+C:\Users\WeAre\VSCore\ProjectosClase\triangulo-de-pascal-WojciechAdalberto\obj\Debug\netcoreapp2.1\triangulo-de-pascal-WojciechAdalberto.csprojAssemblyReference.cache
+C:\Users\WeAre\VSCore\ProjectosClase\triangulo-de-pascal-WojciechAdalberto\obj\Debug\netcoreapp2.1\triangulo-de-pascal-WojciechAdalberto.csproj.CoreCompileInputs.cache
+C:\Users\WeAre\VSCore\ProjectosClase\triangulo-de-pascal-WojciechAdalberto\obj\Debug\netcoreapp2.1\triangulo-de-pascal-WojciechAdalberto.AssemblyInfoInputs.cache
+C:\Users\WeAre\VSCore\ProjectosClase\triangulo-de-pascal-WojciechAdalberto\obj\Debug\netcoreapp2.1\triangulo-de-pascal-WojciechAdalberto.AssemblyInfo.cs
+C:\Users\WeAre\VSCore\ProjectosClase\triangulo-de-pascal-WojciechAdalberto\obj\Debug\netcoreapp2.1\triangulo-de-pascal-WojciechAdalberto.dll
+C:\Users\WeAre\VSCore\ProjectosClase\triangulo-de-pascal-WojciechAdalberto\obj\Debug\netcoreapp2.1\triangulo-de-pascal-WojciechAdalberto.pdb
